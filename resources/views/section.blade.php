@@ -8,7 +8,7 @@
     <script src="https://kit.fontawesome.com/a70663aaec.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/> 
     
-    <title>Services</title>
+    <title>Vehicle Mechanics/services</title>
     
     <script type="text/javascript" src="{{ URL::asset('js/template.js') }}"></script>
     <script type="text/javascript" src="{{ URL::asset('js/section.js') }}"></script>

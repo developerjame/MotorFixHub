@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="{{ URL::asset('css/styles.css') }}" />
     <link rel="stylesheet" href="{{ URL::asset('css/template.css') }}" />
     
-    <title>Digimex</title>
+    <title>Vehicle Mechanics</title>
 </head>
 
 <body>

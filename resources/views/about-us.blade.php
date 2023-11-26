@@ -12,7 +12,7 @@
   <script type="text/javascript" src="{{ URL::asset('js/template.js') }}"></script>
     <link rel="stylesheet" href="{{ URL::asset('css/about-us.css') }}" />
     <link rel="stylesheet" href="{{ URL::asset('css/template.css') }}" />
-  <title>About Us</title>
+  <title>Vehicle Mechanics/about us</title>
 </head>
 <body>
   <div class="hero-container">

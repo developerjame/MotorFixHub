@@ -1,6 +1,8 @@
 <x-layout>
     <x-card class="p-10">
         <header>
+            <a href="/admin" class="text-black ml-4">
+                <i class='far fa-arrow-alt-circle-left' style='font-size:15px'></i> Back </a>
             <h1
                 class="text-3xl text-center font-bold my-6 uppercase"
             >
