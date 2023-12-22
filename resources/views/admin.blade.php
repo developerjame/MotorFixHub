@@ -10,11 +10,11 @@
                 />
                 <div>
                     
-                    <h3 class="text-2xl font-bold">
+                    <h3 class="text-2xl text-white font-bold">
                         <p>Messages</p>
                     </h3>
-                    <div class="text-sm mb-4">{{$count1}} messages</div>
-                    <div class="text-xl mb-4"><a href="/admin/message">Click here <i class="bi bi-hand-index-thumb"></i></a></div>
+                    <div class="text-sm text-white mb-4">{{$count1}} messages</div>
+                    <div class="text-xl text-white mb-4"><a href="/admin/message">Click here <i class="bi bi-hand-index-thumb"></i></a></div>
                     
                 </div>
             </div>
@@ -27,11 +27,11 @@
                     alt=""
                 />
                 <div>
-                    <h3 class="text-2xl font-bold">
+                    <h3 class="text-2xl text-white font-bold">
                         <p>Subscriptions</p>
                     </h3>
-                    <div class="text-sm mb-4">{{$count2}} subscriptions</div>
-                    <div class="text-xl mb-4"><a href="/admin/subscription">Click here <i class="bi bi-hand-index-thumb"></i></a></div>
+                    <div class="text-sm text-white mb-4">{{$count2}} subscriptions</div>
+                    <div class="text-xl text-white mb-4 hover:text-black"><a href="/admin/subscription">Click here <i class="bi bi-hand-index-thumb"></i></a></div>
                     
                 </div>
             </div>

@@ -1,17 +1,17 @@
 <x-layout>
     <x-card class="p-10 max-w-lg mx-auto mt-24">
                     <header class="text-center">
-                        <h2 class="text-2xl font-bold uppercase mb-1">
+                        <h2 class="text-2xl text-white font-bold uppercase mb-1">
                             Login
                         </h2>
-                        <p class="mb-4">Log in into your admin page</p>
+                        <p class="mb-4 text-white">Log in into your admin page</p>
                     </header>
 
                     <form method="POST" action="/users/authenticate">
                         @csrf
                         
                         <div class="mb-6">
-                            <label for="email" class="inline-block text-lg mb-2"
+                            <label for="email" class="inline-block text-lg mb-2 text-white"
                                 >Email</label
                             >
                             <input
@@ -28,7 +28,7 @@
                         <div class="mb-6">
                             <label
                                 for="password"
-                                class="inline-block text-lg mb-2"
+                                class="inline-block text-lg mb-2 text-white"
                             >
                                 Password
                             </label>
