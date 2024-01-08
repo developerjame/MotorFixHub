@@ -65,7 +65,7 @@
                     <div class=" col-md-4">
                         <div id="col">
                             <i class="far fa-smile-beam fa-7x"></i>
-                            <h2>HAPPINESS GUARANTEE</h2>
+                            <h2>HAPPINESS GUARANTEED</h2>
                             <p>
                                 We only work with highly rated mechanics. <br>
                                 All services are backed by our 12-month / 12,000-mile <br>
